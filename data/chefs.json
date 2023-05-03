@@ -1,32 +1,30 @@
 [
     {
+        "id": "0",
+        "foodName": "All Chef"
+    },
+    {
         "id": "1",
         "foodName": "Chicken"
-        
     },
     {
         "id": "2",
-        "foodName":"Vegetables"
-        
+        "foodName": "Vegetables"
     },
     {
         "id": "3",
-        "foodName":"FastFood"
-        
+        "foodName": "FastFood"
     },
     {
         "id": "4",
-        "foodName":"Fried"
-      
+        "foodName": "Fried"
     },
     {
         "id": "5",
-        "foodName":"Vegetables"
-        
+        "foodName": "Vegetables"
     },
     {
         "id": "6",
-        "foodName":"Fried"
-      
+        "foodName": "Fried"
     }
 ]
