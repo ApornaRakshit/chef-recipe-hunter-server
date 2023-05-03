@@ -1,0 +1,110 @@
+[
+    {
+        "_id": "020121454fgfdg454dggd5a",
+        "others_info":{
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "chef_id": "1",
+        "favorite":{
+            "number":6, "badge": "Excellent"
+        },
+        "title": "SHARE 25 Most Popular Indian Foods",
+        "author":{
+            "name":"Ayesha Fontilla",
+            "img":"https://i.ibb.co/Z24Bct6/brian-tromp-Qc-ZYYm-Cp3-I-unsplash.jpg"
+        },
+        "details":"This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
+        "image_url":"https://i.ibb.co/94z3CY9/recipe6.jpg"
+    },
+    {
+        "_id": "020121454fgf456542vxd5a",
+        "others_info":{
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "chef_id": "2",
+        "favorite":{
+            "number":4.5, "badge": "Excellent"
+        },
+        "title": "Indian Chicken Wings with Vegetables Couscous",
+        "author":{
+            "name":"Razvan Stupar",
+            "img":"https://i.ibb.co/2nBhgtS/thomas-marban-EHK-EH1-SRz-Q-unsplash.jpg" 
+        },
+        "details":"This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
+        "image_url":"https://i.ibb.co/zsNqTCr/recipe1.jpg" 
+    },
+    {
+        "_id": "020121agvddadgydgddad5a",
+        "others_info":{
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "chef_id": "3",
+        "favorite":{
+            "number":4, "badge": "Excellent"
+        },
+        "title": "SHARE 25 Most Popular Indian Foods",
+        "author":{
+            "name":"Kelly Taurizano",
+            "img":"https://i.ibb.co/Z24Bct6/brian-tromp-Qc-ZYYm-Cp3-I-unsplash.jpg"
+        },
+        "details":"This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
+        "image_url":"https://i.ibb.co/94z3CY9/recipe6.jpg"
+    },
+    {
+        "_id": "0278976a7dcazcdg454dggd5a",
+        "others_info":{
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "chef_id": "4",
+        "favorite":{
+            "number":5, "badge": "Excellent"
+        },
+        "title": "Turkish Chicken Wings with Vegetables Couscous",
+        "author":{
+            "name":"Suzan Esteves",
+            "img":"https://i.ibb.co/8ddC4TJ/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg"
+        },
+        "details":"This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
+        "image_url":"https://i.ibb.co/zsNqTCr/recipe1.jpg" 
+    },
+    {
+        "_id": "adsad545546fdg454dggd5a",
+        "others_info":{
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "chef_id": "5",
+        "favorite":{
+            "number":4, "badge": "Excellent"
+        },
+        "title": "SHARE 25 Most Popular Indian Foods",
+        "author":{
+            "name":"Ayesha la",
+            "img":"https://i.ibb.co/Z24Bct6/brian-tromp-Qc-ZYYm-Cp3-I-unsplash.jpg"
+        },
+        "details":"This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
+        "image_url":"https://i.ibb.co/94z3CY9/recipe6.jpg"
+    },
+    {
+        "_id": "adysgdaugdyagd464564asd4",
+        "others_info":{
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "chef_id": "6",
+        "favorite":{
+            "number":5, "badge": "Excellent"
+        },
+        "title": "Turkish Chicken Wings with Vegetables Couscous",
+        "author":{
+            "name":"Snindhu ",
+            "img":"https://i.ibb.co/8ddC4TJ/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg" 
+        },
+        "details":"This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
+        "image_url":"https://i.ibb.co/zsNqTCr/recipe1.jpg" 
+    }
+]
