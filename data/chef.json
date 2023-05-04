@@ -7,7 +7,7 @@
         },
         "chef_id": "1",
         "rating": {
-            "number": 6,
+            "number": 4,
             "badge": "Excellent"
         },
         "title": "SHARE 25 Most Popular Indian Foods",
@@ -16,7 +16,11 @@
             "img": "https://i.ibb.co/Z24Bct6/brian-tromp-Qc-ZYYm-Cp3-I-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/94z3CY9/recipe6.jpg"
+        "image_url": "https://i.ibb.co/ydnKGQQ/shardar-tarikul-islam-RWATo-PPP9-RY-unsplash.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 7,
+        "bio" : "Ayesha Fontilla is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 5
     },
     {
         "_id": "0201214lkjjhjkhuiy4d5a",
@@ -26,16 +30,20 @@
         },
         "chef_id": "1",
         "rating": {
-            "number": 6,
+            "number": 4,
             "badge": "Excellent"
         },
         "title": "SHARE 25 Most Popular Indian Foods",
         "author": {
-            "name": "Ayesha Fontilla",
+            "name": "Ayesha la",
             "img": "https://i.ibb.co/Z24Bct6/brian-tromp-Qc-ZYYm-Cp3-I-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/94z3CY9/recipe6.jpg"
+        "image_url": "https://i.ibb.co/bvFCKcd/farhad-ibrahimzade-LJ49dfl-Dc-H8-unsplash.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 7,
+        "bio" : "Ayesha Fontilla is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 5
     },
     {
         "_id": "45646tyryyedfdg454dggd5a",
@@ -45,7 +53,7 @@
         },
         "chef_id": "1",
         "rating": {
-            "number": 6,
+            "number": 4,
             "badge": "Excellent"
         },
         "title": "SHARE 25 Most Popular Indian Foods",
@@ -54,7 +62,11 @@
             "img": "https://i.ibb.co/Z24Bct6/brian-tromp-Qc-ZYYm-Cp3-I-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/94z3CY9/recipe6.jpg"
+        "image_url": "https://i.ibb.co/94z3CY9/recipe6.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 7,
+        "bio" : "Ayesha Fontilla is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 5
     },
     {
         "_id": "02vbnmftgg4656454dggd5a",
@@ -64,7 +76,7 @@
         },
         "chef_id": "1",
         "rating": {
-            "number": 6,
+            "number": 4,
             "badge": "Excellent"
         },
         "title": "SHARE 25 Most Popular Indian Foods",
@@ -73,7 +85,11 @@
             "img": "https://i.ibb.co/Z24Bct6/brian-tromp-Qc-ZYYm-Cp3-I-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/94z3CY9/recipe6.jpg"
+        "image_url": "https://i.ibb.co/qd0wXmt/shreyak-singh-0j4bisy-Po3-M-unsplash.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 7,
+        "bio" : "Ayesha Fontilla is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 5
     },
     {
         "_id": "0ahflufhafhr4654554dggd5a",
@@ -83,7 +99,7 @@
         },
         "chef_id": "1",
         "rating": {
-            "number": 6,
+            "number": 4,
             "badge": "Excellent"
         },
         "title": "SHARE 25 Most Popular Indian Foods",
@@ -92,7 +108,11 @@
             "img": "https://i.ibb.co/Z24Bct6/brian-tromp-Qc-ZYYm-Cp3-I-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/94z3CY9/recipe6.jpg"
+        "image_url": "https://i.ibb.co/94z3CY9/recipe6.jphttps://i.ibb.co/Wkb4swH/lai-yuching-Wxe-Pxgr-IJb-Q-unsplash.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 7,
+        "bio" : "Ayesha Fontilla is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 5
     },
     {
         "_id": "09879879drtdredgd5a",
@@ -107,11 +127,15 @@
         },
         "title": "Indian Chicken Wings with Vegetables Couscous",
         "author": {
-            "name": "Razvan Stupar",
+            "name": "Kelly Taurizano",
             "img": "https://i.ibb.co/2nBhgtS/thomas-marban-EHK-EH1-SRz-Q-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg"
+        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 6,
+        "bio" : "Kelly Taurizano is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 6
     },
     {
         "_id": "gfdsahg897879456542vxd5a",
@@ -126,11 +150,15 @@
         },
         "title": "Indian Chicken Wings with Vegetables Couscous",
         "author": {
-            "name": "Razvan Stupar",
+            "name": "Kelly Taurizano",
             "img": "https://i.ibb.co/2nBhgtS/thomas-marban-EHK-EH1-SRz-Q-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg"
+        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 6,
+        "bio" : "Kelly Taurizano is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 6
     },
     {
         "_id": "0qugfheg45645687456574a",
@@ -145,11 +173,15 @@
         },
         "title": "Indian Chicken Wings with Vegetables Couscous",
         "author": {
-            "name": "Razvan Stupar",
+            "name": "Kelly Taurizano",
             "img": "https://i.ibb.co/2nBhgtS/thomas-marban-EHK-EH1-SRz-Q-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg"
+        "image_url": "https://i.ibb.co/bvFCKcd/farhad-ibrahimzade-LJ49dfl-Dc-H8-unsplash.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 6,
+        "bio" : "Kelly Taurizano is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 6
     },
     {
         "_id": "ifgahfuivvhiug4645875468754",
@@ -164,11 +196,15 @@
         },
         "title": "Indian Chicken Wings with Vegetables Couscous",
         "author": {
-            "name": "Razvan Stupar",
+            "name": "Kelly Taurizano",
             "img": "https://i.ibb.co/2nBhgtS/thomas-marban-EHK-EH1-SRz-Q-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg"
+        "image_url": "https://i.ibb.co/qd0wXmt/shreyak-singh-0j4bisy-Po3-M-unsplash.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 6,
+        "bio" : "Kelly Taurizano is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 6
     },
     {
         "_id": "056465fdasfafsda5f4vsdf5a",
@@ -183,11 +219,16 @@
         },
         "title": "Indian Chicken Wings with Vegetables Couscous",
         "author": {
-            "name": "Razvan Stupar",
+            "name": "Kelly Taurizano",
             "img": "https://i.ibb.co/2nBhgtS/thomas-marban-EHK-EH1-SRz-Q-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg"
+        "image_url": "https://i.ibb.co/ydnKGQQ/shardar-tarikul-islam-RWATo-PPP9-RY-unsplash.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 6,
+        "bio" : "Kelly Taurizano is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 6
+
     },
     {
         "_id": "ugfyhaig45678465a",
@@ -202,11 +243,15 @@
         },
         "title": "SHARE 25 Most Popular Indian Foods",
         "author": {
-            "name": "Kelly Taurizano",
+            "name": "Suzan Esteves",
             "img": "https://i.ibb.co/Z24Bct6/brian-tromp-Qc-ZYYm-Cp3-I-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/94z3CY9/recipe6.jpg"
+        "image_url": "https://i.ibb.co/Wkb4swH/lai-yuching-Wxe-Pxgr-IJb-Q-unsplash.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 7,
+        "bio" : "Suzan Esteves is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 6
     },
     {
         "_id": "02uyeffhuicfsagc5a",
@@ -221,11 +266,15 @@
         },
         "title": "SHARE 25 Most Popular Indian Foods",
         "author": {
-            "name": "Kelly Taurizano",
+            "name": "Suzan Esteves",
             "img": "https://i.ibb.co/Z24Bct6/brian-tromp-Qc-ZYYm-Cp3-I-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/94z3CY9/recipe6.jpg"
+        "image_url": "https://i.ibb.co/ydnKGQQ/shardar-tarikul-islam-RWATo-PPP9-RY-unsplash.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 7,
+        "bio" : "Suzan Esteves is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 6
     },
     {
         "_id": "0agdhagdyqad678946575786ddad5a",
@@ -240,11 +289,15 @@
         },
         "title": "SHARE 25 Most Popular Indian Foods",
         "author": {
-            "name": "Kelly Taurizano",
+            "name": "Suzan Esteves",
             "img": "https://i.ibb.co/Z24Bct6/brian-tromp-Qc-ZYYm-Cp3-I-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/94z3CY9/recipe6.jpg"
+        "image_url": "https://i.ibb.co/94z3CY9/recipe6.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 7,
+        "bio" : "Suzan Esteves is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 6
     },
     {
         "_id": "qydg4c65a4hgush89ac78",
@@ -263,7 +316,11 @@
             "img": "https://i.ibb.co/Z24Bct6/brian-tromp-Qc-ZYYm-Cp3-I-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/94z3CY9/recipe6.jpg"
+        "image_url": "https://i.ibb.co/bvFCKcd/farhad-ibrahimzade-LJ49dfl-Dc-H8-unsplash.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 7,
+        "bio" : "Kelly Taurizano is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 6
     },
     {
         "_id": "020121agvddadgydgddad5a",
@@ -278,11 +335,15 @@
         },
         "title": "SHARE 25 Most Popular Indian Foods",
         "author": {
-            "name": "Kelly Taurizano",
+            "name": "Suzan Esteves",
             "img": "https://i.ibb.co/Z24Bct6/brian-tromp-Qc-ZYYm-Cp3-I-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/94z3CY9/recipe6.jpg"
+        "image_url": "https://i.ibb.co/94z3CY9/recipe6.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 7,
+        "bio" : "Suzan Esteves is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 6
     },
     {
         "_id": "proitgai5864568",
@@ -297,11 +358,15 @@
         },
         "title": "SHARE 25 Most Popular Indian Foods",
         "author": {
-            "name": "Kelly Taurizano",
+            "name": "Suzan Esteves",
             "img": "https://i.ibb.co/Z24Bct6/brian-tromp-Qc-ZYYm-Cp3-I-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/94z3CY9/recipe6.jpg"
+        "image_url": "https://i.ibb.co/Wkb4swH/lai-yuching-Wxe-Pxgr-IJb-Q-unsplash.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 7,
+        "bio" : "Suzan Esteves is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 6
     },
     {
         "_id": "iiwf456a8v56",
@@ -316,11 +381,15 @@
         },
         "title": "Turkish Chicken Wings with Vegetables Couscous",
         "author": {
-            "name": "Suzan Esteves",
+            "name": "Snindhu",
             "img": "https://i.ibb.co/8ddC4TJ/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg"
+        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 10,
+        "bio" : "Snindhu is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 7
     },
     {
         "_id": "vrfvnrhgye3357",
@@ -335,11 +404,15 @@
         },
         "title": "Turkish Chicken Wings with Vegetables Couscous",
         "author": {
-            "name": "Suzan Esteves",
+            "name": "Snindhu",
             "img": "https://i.ibb.co/8ddC4TJ/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg"
+        "image_url": "https://i.ibb.co/bvFCKcd/farhad-ibrahimzade-LJ49dfl-Dc-H8-unsplash.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 10,
+        "bio" : "Snindhu is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 7
     },
     {
         "_id": "ouiycdfrd48468",
@@ -354,11 +427,15 @@
         },
         "title": "Turkish Chicken Wings with Vegetables Couscous",
         "author": {
-            "name": "Suzan Esteves",
+            "name": "Snindhu",
             "img": "https://i.ibb.co/8ddC4TJ/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg"
+        "image_url": "https://i.ibb.co/qd0wXmt/shreyak-singh-0j4bisy-Po3-M-unsplash.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 10,
+        "bio" : "Snindhu is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 7
     },
     {
         "_id": "46865fgfttgf",
@@ -373,11 +450,15 @@
         },
         "title": "Turkish Chicken Wings with Vegetables Couscous",
         "author": {
-            "name": "Suzan Esteves",
+            "name": "Snindhu",
             "img": "https://i.ibb.co/8ddC4TJ/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg"
+        "image_url": "https://i.ibb.co/Wkb4swH/lai-yuching-Wxe-Pxgr-IJb-Q-unsplash.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 10,
+        "bio" : "Snindhu is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 7
     },
     {
         "_id": "0278976a7dcazcdg454dggd5a",
@@ -392,11 +473,15 @@
         },
         "title": "Turkish Chicken Wings with Vegetables Couscous",
         "author": {
-            "name": "Suzan Esteves",
+            "name": "Snindhu",
             "img": "https://i.ibb.co/8ddC4TJ/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg"
+        "image_url": "https://i.ibb.co/bvFCKcd/farhad-ibrahimzade-LJ49dfl-Dc-H8-unsplash.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 10,
+        "bio" : "Snindhu is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 7
     },
     {
         "_id": "adsad545546fdg454dggd5a",
@@ -411,11 +496,15 @@
         },
         "title": "SHARE 25 Most Popular Indian Foods",
         "author": {
-            "name": "Ayesha la",
+            "name": "Razvan Stupar",
             "img": "https://i.ibb.co/Z24Bct6/brian-tromp-Qc-ZYYm-Cp3-I-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/94z3CY9/recipe6.jpg"
+        "image_url": "https://i.ibb.co/ydnKGQQ/shardar-tarikul-islam-RWATo-PPP9-RY-unsplash.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 7,
+        "bio" : "Razvan Stupar is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 4
     },
     {
         "_id": "adsad5tytr",
@@ -430,11 +519,15 @@
         },
         "title": "SHARE 25 Most Popular Indian Foods",
         "author": {
-            "name": "Ayesha la",
+            "name": "Razvan Stupar",
             "img": "https://i.ibb.co/Z24Bct6/brian-tromp-Qc-ZYYm-Cp3-I-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/94z3CY9/recipe6.jpg"
+        "image_url": "https://i.ibb.co/ydnKGQQ/shardar-tarikul-islam-RWATo-PPP9-RY-unsplash.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 7,
+        "bio" : "Razvan Stupar is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 4
     },
     {
         "_id": "6454879ghfycxfgx",
@@ -449,11 +542,15 @@
         },
         "title": "SHARE 25 Most Popular Indian Foods",
         "author": {
-            "name": "Ayesha la",
+            "name": "Razvan Stupar",
             "img": "https://i.ibb.co/Z24Bct6/brian-tromp-Qc-ZYYm-Cp3-I-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/94z3CY9/recipe6.jpg"
+        "image_url": "https://i.ibb.co/qd0wXmt/shreyak-singh-0j4bisy-Po3-M-unsplash.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 7,
+        "bio" : "Razvan Stupar is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 4
     },
     {
         "_id": "alkjhasdfqfsdcgxfgdsrf45a",
@@ -468,11 +565,15 @@
         },
         "title": "SHARE 25 Most Popular Indian Foods",
         "author": {
-            "name": "Ayesha la",
+            "name": "Razvan Stupar",
             "img": "https://i.ibb.co/Z24Bct6/brian-tromp-Qc-ZYYm-Cp3-I-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/94z3CY9/recipe6.jpg"
+        "image_url": "https://i.ibb.co/94z3CY9/recipe6.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 7,
+        "bio" : "Razvan Stupar is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 4
     },
     {
         "_id": "adysgdaugdyagd464564asd4",
@@ -485,13 +586,17 @@
             "number": 5,
             "badge": "Excellent"
         },
-        "title": "Turkish Chicken Wings with Vegetables Couscous",
+        "title": "Indians Chicken Wings with Vegetables Couscous",
         "author": {
             "name": "Snindhu ",
             "img": "https://i.ibb.co/8ddC4TJ/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg"
+        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 10,
+        "bio" : "Snindu is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 3
     },
     {
         "_id": "qwe951iuehd4",
@@ -504,13 +609,17 @@
             "number": 5,
             "badge": "Excellent"
         },
-        "title": "Turkish Chicken Wings with Vegetables Couscous",
+        "title": "Indians Chicken Wings with Vegetables Couscous",
         "author": {
-            "name": "Snindhu ",
+            "name": "Razvi Farda ",
             "img": "https://i.ibb.co/8ddC4TJ/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg"
+        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 10,
+        "bio" : "Razvi Farda is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 3
     },
     {
         "_id": "qwe379514564asd4",
@@ -523,13 +632,17 @@
             "number": 5,
             "badge": "Excellent"
         },
-        "title": "Turkish Chicken Wings with Vegetables Couscous",
+        "title": "Indians Chicken Wings with Vegetables Couscous",
         "author": {
-            "name": "Snindhu ",
+            "name": "Razvi Farda ",
             "img": "https://i.ibb.co/8ddC4TJ/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg"
+        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 10,
+        "bio" : "Razvi Farda is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 3
     },
     {
         "_id": "adysgda6464asd4",
@@ -542,13 +655,17 @@
             "number": 5,
             "badge": "Excellent"
         },
-        "title": "Turkish Chicken Wings with Vegetables Couscous",
+        "title": "Indians Chicken Wings with Vegetables Couscous",
         "author": {
-            "name": "Snindhu ",
+            "name": "Razvi Farda",
             "img": "https://i.ibb.co/8ddC4TJ/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg"
+        "image_url": "https://i.ibb.co/qd0wXmt/shreyak-singh-0j4bisy-Po3-M-unsplash.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 10,
+        "bio" : "Razvi Varda is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 3
     },
     {
         "_id": "adysgdatytyiagd464564asd4",
@@ -561,13 +678,17 @@
             "number": 5,
             "badge": "Excellent"
         },
-        "title": "Turkish Chicken Wings with Vegetables Couscous",
+        "title": "Indians Chicken Wings with Vegetables Couscous",
         "author": {
-            "name": "Snindhu ",
+            "name": "Razvi Farda",
             "img": "https://i.ibb.co/8ddC4TJ/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg"
+        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 10,
+        "bio" : "Razvi Farda is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 3
     },
     {
         "_id": "adqweqwedyagd464564asd4",
@@ -580,13 +701,17 @@
             "number": 5,
             "badge": "Excellent"
         },
-        "title": "Turkish Chicken Wings with Vegetables Couscous",
+        "title": "Indians Chicken Wings with Vegetables Couscous",
         "author": {
-            "name": "Snindhu ",
+            "name": "Razvi Farda",
             "img": "https://i.ibb.co/8ddC4TJ/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg"
+        "image_url": "https://i.ibb.co/bvFCKcd/farhad-ibrahimzade-LJ49dfl-Dc-H8-unsplash.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 10,
+        "bio" : "Razvi Farda is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 3
     },
     {
         "_id": "a789878978gdaugdyagd464564asd4",
@@ -599,12 +724,17 @@
             "number": 5,
             "badge": "Excellent"
         },
-        "title": "Turkish Chicken Wings with Vegetables Couscous",
+        "title": "Indians Chicken Wings with Vegetables Couscous",
         "author": {
-            "name": "Snindhu ",
+            "name": "Razvi Farda",
             "img": "https://i.ibb.co/8ddC4TJ/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg"
         },
         "details": "This recipe is all about bold and delicious flavors that come together to create a truly memorable meal. Succulent chicken wings are coated in a luscious glaze made with dark...",
-        "image_url": "https://i.ibb.co/zsNqTCr/recipe1.jpg"
+        "image_url": "https://i.ibb.co/Wkb4swH/lai-yuching-Wxe-Pxgr-IJb-Q-unsplash.jpg",
+        "recipeNumber" : 6,
+        "yearsOfExperience" : 10,
+        "bio" : "Razvi Farda is a private chef in India and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ingredients. Well versed in the traditional food practices of pickling, cheese making, salt curing, fermenting, and preserving, Brenda integrates these arts along with wild foraging into her work to make every meal a unique and memorable culinary experience",
+        "likes": 3
+        
     }
 ]
