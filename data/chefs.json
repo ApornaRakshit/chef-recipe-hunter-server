@@ -5,26 +5,32 @@
     },
     {
         "id": "1",
-        "foodName": "Suzan Esteves"
+        "foodName": "Suzan Esteves",
+        "chefImage": "https://i.ibb.co/Z24Bct6/brian-tromp-Qc-ZYYm-Cp3-I-unsplash.jpg"
     },
     {
         "id": "2",
-        "foodName": "Kelly Taurizano"
+        "foodName": "Kelly Taurizano",
+        "chefImage" :"https://i.ibb.co/Z24Bct6/brian-tromp-Qc-ZYYm-Cp3-I-unsplash.jpg"
     },
     {
         "id": "3",
-        "foodName": "Ayesha Fontilla"
+        "foodName": "Ayesha Fontilla",
+        "chefImage": "https://i.ibb.co/Z24Bct6/brian-tromp-Qc-ZYYm-Cp3-I-unsplash.jpg"
     },
     {
         "id": "4",
-        "foodName": "Snindhu"
+        "foodName": "Snindhu",
+        "chefImage": "https://i.ibb.co/8ddC4TJ/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg"
     },
     {
         "id": "5",
-        "foodName": "Razvan Stupar"
+        "foodName": "Razvan Stupar",
+        "chefImage": "https://i.ibb.co/Z24Bct6/brian-tromp-Qc-ZYYm-Cp3-I-unsplash.jpg"
     },
     {
         "id": "6",
-        "foodName": "Razvi Farada"
+        "foodName": "Razvi Farada",
+        "chefImage": "https://i.ibb.co/8ddC4TJ/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg"
     }
 ]
